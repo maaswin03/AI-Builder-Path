@@ -1,0 +1,15 @@
+Company HR & IT Policy
+
+Employees receive 12 casual leaves per year.
+
+Employees can work from home up to 2 days per week with manager approval.
+
+VPN access is provided using Cisco AnyConnect.
+
+Laptop replacement is available after 3 years.
+
+Reimbursement requests should be submitted through the Finance Portal within 30 days.
+
+Payroll is processed on the last working day of every month.
+
+For IT support, employees should create a ticket in the Service Desk Portal.

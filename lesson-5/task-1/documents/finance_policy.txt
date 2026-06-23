@@ -1,0 +1,19 @@
+Finance Policy
+
+Payroll:
+Payroll is processed on the last working day of every month.
+
+Expense Reimbursement:
+Employees must submit receipts through the Expense Portal.
+
+Travel Claims:
+Travel claims must be submitted within 30 days of travel.
+
+Budget Reports:
+Monthly budget reports are available on the Finance Portal.
+
+Purchase Orders:
+All purchases above $1000 require manager approval.
+
+Invoices:
+Invoices are processed within five business days.

@@ -1,0 +1,20 @@
+IT Support Policy
+
+VPN Access:
+Employees should install Cisco AnyConnect VPN from the company portal.
+
+Approved Software:
+Only approved software may be installed.
+Software requests must be submitted through the IT Service Portal.
+
+Laptop Requests:
+Employees can request a new laptop through ServiceNow after manager approval.
+
+Password Reset:
+Employees should use the Self-Service Password Reset portal.
+
+Email Setup:
+Microsoft Outlook is the approved email client.
+
+Antivirus:
+All company devices must have Microsoft Defender enabled.

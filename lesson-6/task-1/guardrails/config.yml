@@ -1,0 +1,23 @@
+models:
+  - type: main
+    engine: langchain
+
+    parameters:
+      model: gemini-flash-latest
+      google_api_key: ${GOOGLE_API_KEY}
+
+instructions:
+  - type: general
+    content: |
+      You are an enterprise support assistant.
+      You only answer IT and Finance related questions.
+      Always respond professionally and politely.
+
+rails:
+  input:
+    flows:
+      - self check input
+
+  output:
+    flows:
+      - self check output

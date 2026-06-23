@@ -1,0 +1,1 @@
+The application cannot connect to the database. What should I check first?

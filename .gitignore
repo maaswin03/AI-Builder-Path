@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+clean_env/
+venv311/
+
+# VS Code
+.vscode/
+
+# Project-specific outputs and data
+**/output/
+**/results/
+**/vector_db/
+*.faiss
+*.log
+
+# Sensitive information
+credentials.json
+*.pem
+*.key
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python packaging/distribution
+dist/
+build/
+*.egg-info/

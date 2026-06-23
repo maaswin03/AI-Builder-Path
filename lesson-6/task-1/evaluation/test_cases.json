@@ -1,0 +1,18 @@
+[
+  {
+    "query": "How do I set up VPN?",
+    "expected_tool": "IT Agent"
+  },
+  {
+    "query": "When is payroll processed?",
+    "expected_tool": "Finance Agent"
+  },
+  {
+    "query": "What software is approved?",
+    "expected_tool": "IT Agent"
+  },
+  {
+    "query": "How do I file reimbursement?",
+    "expected_tool": "Finance Agent"
+  }
+]
