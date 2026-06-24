@@ -32,3 +32,10 @@ define flow block_harmful4
 define flow block_harmful5
     user prompt_injection
     bot refuse
+
+define bot refuse
+    "I'm sorry, I can't help with that request."
+
+define flow
+    user ...
+    bot respond
